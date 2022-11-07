@@ -57,7 +57,13 @@ def get_filters():
     print('-'*40)
     return city, month, day
 
+<<<<<<< HEAD
 print("Python")
+||||||| a61baeb
+
+=======
+# This is a comment on bikeshare.py
+>>>>>>> documentation
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
