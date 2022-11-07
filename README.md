@@ -12,4 +12,4 @@ To complete this project, the following software requirements apply:
 - A text editor, like Sublime or Atom.
 - A terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
-# This is a comment
+# This is a comment in README
